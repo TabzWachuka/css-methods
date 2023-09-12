@@ -5,3 +5,4 @@ This is an Odin Project assignment. This assignment will consist of and index ht
 3. Grouping selectors.
 4. Chaining selectors
 5. Descendant combinator
+6. Cascade fix
